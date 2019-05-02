@@ -1,0 +1,8 @@
+Pre-request work For project Work.
+
+On MYSql localhost server: Import file from Database folder.
+
+Create a Schema names as"LMS"
+Import books.sql
+Impoert issueBooks.sql
+Import librarian.sql
